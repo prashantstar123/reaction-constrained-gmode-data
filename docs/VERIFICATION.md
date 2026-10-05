@@ -1,6 +1,6 @@
 # Verification record
 
-Date: 2026-10-05. **PASS for data-only reproduction. Private review candidate.**
+Date: 2026-10-05. **PASS for data-only reproduction.**
 
 ## Tests performed
 
@@ -51,5 +51,13 @@ within the declared 1-GB working budget. No cluster jobs or solver runs occurred
 
 This is saved-data reproduction, not independent recalculation of the EOS,
 TOV solutions or QNM spectrum. Solver source, private correspondence,
-administrative proofs and research notes remain excluded. No public upload
-or additional reuse license is authorized by this verification record.
+administrative proofs and research notes remain excluded. Public release was
+separately approved by the project owner on 2026-10-05; the verification checks
+do not themselves grant additional reuse rights.
+
+## Public release
+
+Version 1.0.0 adds public-facing documentation, citation metadata and a README
+preview of an existing paper figure. Numerical inputs, reference images,
+reproduction code, dependency pins and tests are unchanged from the verified
+candidate. GitHub workflow results are available from the README status badge.
