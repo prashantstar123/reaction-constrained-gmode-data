@@ -1,0 +1,95 @@
+{
+  "stage": 3,
+  "families": {
+    "ka_UK100_Keq": {
+      "tag": "ka_UK100_Keq",
+      "onset": 0.482393063583815,
+      "G1_betaeq": 2.4387661474355263e-15,
+      "order_lo": 0,
+      "order_hi": 0,
+      "acausal": 0,
+      "dc2_frozen_peak": 0.2755656426219123,
+      "dc2_fastK_peak": 0.12143697664258979,
+      "retained_pct": 44.06825738040444,
+      "passed": true,
+      "table": "eos5_can_ka_UK100_Keq.dat"
+    },
+    "ka_UK120_Keq": {
+      "tag": "ka_UK120_Keq",
+      "onset": 0.43098651252408476,
+      "G1_betaeq": 2.0885631638845645e-15,
+      "order_lo": 0,
+      "order_hi": 0,
+      "acausal": 0,
+      "dc2_frozen_peak": 0.30841151671269834,
+      "dc2_fastK_peak": 0.12201359938239226,
+      "retained_pct": 39.561946545613075,
+      "passed": true,
+      "table": "eos5_can_ka_UK120_Keq.dat"
+    },
+    "ka_UK140_Keq": {
+      "tag": "ka_UK140_Keq",
+      "onset": 0.38729094412331405,
+      "G1_betaeq": 3.0649859660813627e-15,
+      "order_lo": 0,
+      "order_hi": 0,
+      "acausal": 0,
+      "dc2_frozen_peak": 0.36603914025585294,
+      "dc2_fastK_peak": 0.13279176165309095,
+      "retained_pct": 36.27802249788713,
+      "passed": true,
+      "table": "eos5_can_ka_UK140_Keq.dat"
+    },
+    "ka_UK160_Keq": {
+      "tag": "ka_UK160_Keq",
+      "onset": 0.35130635838150287,
+      "G1_betaeq": 4.373585216619422e-15,
+      "order_lo": 0,
+      "order_hi": 0,
+      "acausal": 0,
+      "dc2_frozen_peak": 0.4563494274241344,
+      "dc2_fastK_peak": 0.20075553167098492,
+      "retained_pct": 43.991625628665744,
+      "passed": true,
+      "table": "eos5_can_ka_UK160_Keq.dat"
+    },
+    "ndelta_strongD": {
+      "tag": "ndelta_strongD",
+      "G1_betaeq": 1.2758390470292055e-14,
+      "order_lo": 2,
+      "order_hi": 0,
+      "order_maxviol": 0.03298738608750704,
+      "acausal": 0,
+      "dc2_frozen_peak": 0.18095758356493452,
+      "dc2_strongD_peak": 0.029555766679734974,
+      "retained_pct": 16.33298041313048,
+      "modified_range": [
+        0.30504046242774563,
+        0.5903468208092486
+      ],
+      "passed": true,
+      "note": "order_maxviol is a single Delta-onset-straddling FD point, clipped to ce2 in the table (strong-eq removes onset buoyancy)",
+      "table": "eos5_can_ndelta_strongD.dat"
+    },
+    "nydelta_strongD": {
+      "tag": "nydelta_strongD",
+      "G1_betaeq": 8.779748414853274e-15,
+      "order_lo": 2,
+      "order_hi": 0,
+      "order_maxviol": 0.03298738608750704,
+      "acausal": 0,
+      "dc2_frozen_peak": 0.3914005247692582,
+      "dc2_strongD_peak": 0.18058917596480528,
+      "retained_pct": 46.13922683707891,
+      "modified_range": [
+        0.30504046242774563,
+        0.5646435452793834
+      ],
+      "passed": true,
+      "note": "order_maxviol is a single Delta-onset-straddling FD point, clipped to ce2 in the table (strong-eq removes onset buoyancy)",
+      "table": "eos5_can_nydelta_strongD.dat"
+    }
+  },
+  "all_passed": true,
+  "wall_s": 5.8
+}

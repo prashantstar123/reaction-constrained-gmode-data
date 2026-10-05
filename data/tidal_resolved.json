@@ -1,0 +1,155 @@
+[
+  {
+    "tag": "ka_UK120",
+    "M": 1.4,
+    "qhat": 9.436822e-05,
+    "phase_rad": 0.000449,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "below-onset=npemu"
+  },
+  {
+    "tag": "ka_UK120",
+    "M": 1.8,
+    "qhat": 4.316196e-05,
+    "phase_rad": 3.4e-05,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "below-onset=npemu"
+  },
+  {
+    "tag": "ka_UK120",
+    "M": 2.0,
+    "qhat": 6.896682e-05,
+    "phase_rad": 5.6e-05,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "below-onset=npemu"
+  },
+  {
+    "tag": "ka_UK160",
+    "M": 1.4,
+    "qhat": 9.436822e-05,
+    "phase_rad": 0.000449,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "below-onset=npemu"
+  },
+  {
+    "tag": "ka_UK160",
+    "M": 1.799,
+    "qhat": 0.00052139,
+    "phase_rad": 0.00028,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  },
+  {
+    "tag": "ka_UK160",
+    "M": 1.999,
+    "qhat": 0.0011847,
+    "phase_rad": 0.00064,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  },
+  {
+    "tag": "ndelta",
+    "M": 1.399,
+    "qhat": 0.00022369,
+    "phase_rad": 0.0005,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  },
+  {
+    "tag": "ndelta",
+    "M": 1.799,
+    "qhat": 0.00043214,
+    "phase_rad": 0.00031,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  },
+  {
+    "tag": "ndelta",
+    "M": 2.0,
+    "qhat": 0.0004131168,
+    "phase_rad": 0.000156,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "grid-stable"
+  },
+  {
+    "tag": "npemu",
+    "M": 1.4,
+    "qhat": 9.436822e-05,
+    "phase_rad": 0.000449,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "richardson"
+  },
+  {
+    "tag": "npemu",
+    "M": 1.8,
+    "qhat": 4.316196e-05,
+    "phase_rad": 3.4e-05,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "grid-stable"
+  },
+  {
+    "tag": "npemu",
+    "M": 2.0,
+    "qhat": 6.896682e-05,
+    "phase_rad": 5.6e-05,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "tide-decoupled-negligible"
+  },
+  {
+    "tag": "ny",
+    "M": 1.4,
+    "qhat": 9.436822e-05,
+    "phase_rad": 0.000449,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "below-onset=npemu"
+  },
+  {
+    "tag": "ny",
+    "M": 1.8,
+    "qhat": 0.0001702682,
+    "phase_rad": 8e-05,
+    "appreciable": 0,
+    "converged": 1,
+    "method": "grid-stable"
+  },
+  {
+    "tag": "ny",
+    "M": 1.999,
+    "qhat": 0.00053555,
+    "phase_rad": 0.00022,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  },
+  {
+    "tag": "nydelta",
+    "M": 1.4,
+    "qhat": 0.00010177,
+    "phase_rad": 0.0001,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  },
+  {
+    "tag": "nydelta",
+    "M": 1.799,
+    "qhat": 0.0013078,
+    "phase_rad": 0.00141,
+    "appreciable": 1,
+    "converged": 1,
+    "method": "appreciable"
+  }
+]

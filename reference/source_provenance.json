@@ -1,0 +1,48 @@
+{
+  "source_manuscript_sha256": "33bcc86ef6462f86bfe128e5ce9ed618fa4a111c572940ced25aa67d64e18e05",
+  "source_archive_sha256": "9cd0696b7fa7b52c6a209745a888ac576d4c648e3437a3fe7589db6bc6cd59b7",
+  "source_records": {
+    "canonical_model_parameters": {
+      "filename": "canonical_parameters_and_couplings.json",
+      "sha256": "88fba73191e3b5542fbbc5ade92c206e389a1fafce6cd0a5b0897100229068d1"
+    },
+    "structural_catalogue": {
+      "filename": "stage2_report.json",
+      "sha256": "277503393b8759ffe3a212487c25e35d5e7fc4adc9fcb8e475b30bf19ad13dd3"
+    },
+    "exact_star_modes": {
+      "filename": "exact_points.json",
+      "sha256": "bd41b796f4f393d2daa9b854b1e4ad3ccda3978daa38483a9c15b3618acd4ced"
+    },
+    "reaction_retention": {
+      "filename": "stage3_report.json",
+      "sha256": "cc6dcde90a25c798d35ce45bb336f894ebec34fcc2615516cd6095245d8061ba"
+    },
+    "resolved_tidal": {
+      "filename": "tidal_fullGR_canonical_resolved.dat",
+      "sha256": "90eaa6a7cb56e8cce8eb6d4040ae269ed69fd8355dda2123bd9b5642842229ed"
+    },
+    "published_tidal_point_record": {
+      "filename": "VALIDATION_v2.txt",
+      "sha256": "d4794731e72a990c7c599cfff58bedbe077a81154611c0b1cf8794c848731a37"
+    },
+    "canonical_freeze_manifest": {
+      "filename": "FINAL_CANONICAL_FREEZE_MANIFEST.sha256",
+      "sha256": "94d61e0e0b068cc77924ddea7c24488a7bc633668349761c92c3f88f755d6720"
+    }
+  },
+  "canonical_manifest_entries_verified": 255,
+  "paper_images": {
+    "FIG1_kaon_buoyancy_fractions.png": "4e8a1f6a024f7729370bdd0a3c793f48652d0517cc290e6fcf5228c9244fa525",
+    "FIG2_kaon_MR.png": "d88a4c6702e97cec90b08c051e572a0f7790e0b047700002ac8d1a77866253a3",
+    "FIG3a_kaon_freq.png": "75fb1d7128c2af4f02043ee96c858a507d540405e330ae91ba6a333e414ae513",
+    "FIG3b_kaon_damping.png": "8e57f509b2fdc276d19d02449fccd8dc153dafab66ea3379cfb16e00a343b73f",
+    "FIG4_hypdelta_buoyancy_fractions.png": "c10c40b37e421143f6b7509675f95d5466cce0e29b38de302fc7774a18548849",
+    "FIG5_hypdelta_MR.png": "17a2445c307584cc39287f99c0a8ae04b30c5852ced71862e19acacb1fd75ce3",
+    "FIG7_strongD.png": "d0e7651b8162359a70c28ecd1dd2a88bd8fd849dd766a3eb84802ea9462f8580",
+    "FIG8_tidal_dphi.png": "4cd1464b1caa199287f1b3cdaef594c495e27e188b5357492699477a4687739a",
+    "ddme2_appendix_robustness.png": "6d7c4a760f3f3d9d588412977c205b9809dac48f5246bda6c32bae1d104baf68",
+    "g1_paperstyle_can.png": "1e0f2844f76465953ae088954bbe47c860be4bd6dc67812e0020809ff34fcb34",
+    "tau_paperstyle_can.png": "9e2a6dccaf7c865a2f4a75d67769a3bae12cbf2e934f6825157e2cbf695b2703"
+  }
+}

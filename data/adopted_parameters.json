@@ -1,0 +1,12 @@
+{
+  "nucleon_mass_MeV": 939,
+  "kaon_mass_MeV": 497.5,
+  "saturation_targets": {
+    "n0": 0.155,
+    "EA": -16.344,
+    "K": 227.001,
+    "J": 31.315,
+    "L": 39.8
+  },
+  "source": "Adopted model definitions in Tables I and II of the accepted article"
+}

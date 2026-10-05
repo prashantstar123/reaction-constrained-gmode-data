@@ -1,0 +1,20 @@
+[
+  {
+    "table": 3,
+    "row": 2,
+    "column": 5,
+    "checkpoint_display": "433.74",
+    "published_display": "433.75",
+    "checkpoint_value_Hz": 433.74476384856223,
+    "reason": "Preserve the archived table's last displayed digit; the full-precision checkpoint is retained unchanged."
+  },
+  {
+    "table": 5,
+    "row": 3,
+    "column": 4,
+    "checkpoint_display": "751.55",
+    "published_display": "751.56",
+    "checkpoint_value_Hz": 751.5545669768339,
+    "reason": "Preserve the archived table's last displayed digit; the full-precision checkpoint is retained unchanged."
+  }
+]

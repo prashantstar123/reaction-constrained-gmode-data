@@ -1,0 +1,35 @@
+[
+  {
+    "composition": "npemu+K-_UK-120",
+    "onset_nB": 0.49,
+    "onset_M": 2.148,
+    "Mmax": 2.352,
+    "M_cmp": 2.352,
+    "frozen": 609.3,
+    "reaction": 395.6,
+    "ratio": 0.649,
+    "local_retention": 40.0
+  },
+  {
+    "composition": "npemu+Delta",
+    "onset_nB": 0.322,
+    "onset_M": 1.255,
+    "Mmax": 2.33,
+    "M_cmp": 1.9,
+    "frozen": 558.2,
+    "reaction": 246.9,
+    "ratio": 0.442,
+    "local_retention": 15.0
+  },
+  {
+    "composition": "npemu+Y+Delta",
+    "onset_nB": 0.322,
+    "onset_M": 1.256,
+    "Mmax": 2.099,
+    "M_cmp": 1.9,
+    "frozen": 771.8,
+    "reaction": 583.0,
+    "ratio": 0.755,
+    "local_retention": 43.0
+  }
+]

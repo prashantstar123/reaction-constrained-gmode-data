@@ -1,0 +1,740 @@
+[
+  {
+    "data_key": "/eos/npemu",
+    "source_file": "eos5_can_npemu.dat",
+    "source_sha256": "ecbbcae1abad503dc91b1164709122e15f50e5bb667f3e0a42f2f4dc83eea386",
+    "shape": [
+      636,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ny",
+    "source_file": "eos5_can_ny.dat",
+    "source_sha256": "2f3cb244b9b48d26de123422db6236e63d8c3a7455d5529673251725b2a76d58",
+    "shape": [
+      417,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ndelta",
+    "source_file": "eos5_can_ndelta.dat",
+    "source_sha256": "02ffbb48dc877314f4c8275a45fbd0cb0ac985e26ac851d0f1951c5ad08b1e88",
+    "shape": [
+      321,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/nydelta",
+    "source_file": "eos5_can_nydelta.dat",
+    "source_sha256": "d069002a9f560cdf8bab4608d3ab22ce6cb07392dc05373b196d6aa1d961783f",
+    "shape": [
+      311,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ka_UK0",
+    "source_file": "eos5_can_ka_UK0.dat",
+    "source_sha256": "7b3aeaa1f93e1599990bb4652228c25bcf7e2193c2f946fdec9f4b23e9950c12",
+    "shape": [
+      636,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ka_UK100",
+    "source_file": "eos5_can_ka_UK100.dat",
+    "source_sha256": "905ef96ce86c3e49e29a97df1d9ca627df5171727d468824484cb1fdfe50c01a",
+    "shape": [
+      493,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ka_UK120",
+    "source_file": "eos5_can_ka_UK120.dat",
+    "source_sha256": "784ea2a6acdb893b492dfb44639cfa77a0016e566d94a8263682f2d7f0f01917",
+    "shape": [
+      452,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ka_UK140",
+    "source_file": "eos5_can_ka_UK140.dat",
+    "source_sha256": "68afe2656d2552af1b634e88912e6834727a83f5abdaa5bb800ba24b2d452548",
+    "shape": [
+      411,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ka_UK160",
+    "source_file": "eos5_can_ka_UK160.dat",
+    "source_sha256": "5cb9e5a0c538c4d6855a1c185c5948421968a9b7f6c2bbb5f889a568698b852c",
+    "shape": [
+      372,
+      5
+    ]
+  },
+  {
+    "data_key": "/mr/npemu",
+    "source_file": "MR_can_npemu.dat",
+    "source_sha256": "dde49fffba2fd3800e5c846ef652a72549aa4df0aaf7f052a4f2e6bce682f97c",
+    "shape": [
+      156,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ny",
+    "source_file": "MR_can_ny.dat",
+    "source_sha256": "ca0f5941df085f13d04a40062d375a20ba23b5c2c400e78c4b6105a4150815f4",
+    "shape": [
+      154,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ndelta",
+    "source_file": "MR_can_ndelta.dat",
+    "source_sha256": "e158b9c1249556db47d5337fbd7a63154f15f2ccaec82a4c5b721859065469d6",
+    "shape": [
+      153,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/nydelta",
+    "source_file": "MR_can_nydelta.dat",
+    "source_sha256": "76e1cb975440e5624c73665f8f8813fa18d0ef7029bec4194f798e93aff9dd07",
+    "shape": [
+      153,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ka_UK0",
+    "source_file": "MR_can_ka_UK0.dat",
+    "source_sha256": "dde49fffba2fd3800e5c846ef652a72549aa4df0aaf7f052a4f2e6bce682f97c",
+    "shape": [
+      156,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ka_UK100",
+    "source_file": "MR_can_ka_UK100.dat",
+    "source_sha256": "cdf55d2c211fa949d922d0e5af0d38421047cdb289e5a610d50185c38c8b4d67",
+    "shape": [
+      155,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ka_UK120",
+    "source_file": "MR_can_ka_UK120.dat",
+    "source_sha256": "7ac03589b53e2125eadae28a62fcea94b10aff050aaa5998fc0cf2176eebbfb2",
+    "shape": [
+      155,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ka_UK140",
+    "source_file": "MR_can_ka_UK140.dat",
+    "source_sha256": "1b7f83ceba1674943d22d7abfc18c2b2d6199221b445ce0dfbd5a842172e3c2e",
+    "shape": [
+      154,
+      4
+    ]
+  },
+  {
+    "data_key": "/mr/ka_UK160",
+    "source_file": "MR_can_ka_UK160.dat",
+    "source_sha256": "3446ff296aac1b67649ccd32f2fbe5b31107be45ddad156a68aa8d09f9727f47",
+    "shape": [
+      154,
+      4
+    ]
+  },
+  {
+    "data_key": "/reaction/ka_UK100_Keq",
+    "source_file": "eos5_can_ka_UK100_Keq.dat",
+    "source_sha256": "1b11a75d30a76abe5cdca9538e12bbb3204a906203950a2065e6732fec14b185",
+    "shape": [
+      493,
+      5
+    ]
+  },
+  {
+    "data_key": "/reaction/ka_UK120_Keq",
+    "source_file": "eos5_can_ka_UK120_Keq.dat",
+    "source_sha256": "4e82499b75b526efef7865ddbf3a4ea13858fac18ce7f6b054cfff3cc88a01a5",
+    "shape": [
+      452,
+      5
+    ]
+  },
+  {
+    "data_key": "/reaction/ka_UK140_Keq",
+    "source_file": "eos5_can_ka_UK140_Keq.dat",
+    "source_sha256": "cbbf133b79b31a76a3c473ff8c7f67bb3543d1c418dcda67b8a73784afa62aff",
+    "shape": [
+      411,
+      5
+    ]
+  },
+  {
+    "data_key": "/reaction/ka_UK160_Keq",
+    "source_file": "eos5_can_ka_UK160_Keq.dat",
+    "source_sha256": "9fc5637838664c6aef5264daf63e0552a1475e5f2d22eaefb8700c3e8b8c73a3",
+    "shape": [
+      372,
+      5
+    ]
+  },
+  {
+    "data_key": "/reaction/ndelta_strongD",
+    "source_file": "eos5_can_ndelta_strongD.dat",
+    "source_sha256": "13cee3cc15765f677851e97ed4ccb837cd87fb0db54af93c90a80d7cded3a716",
+    "shape": [
+      321,
+      5
+    ]
+  },
+  {
+    "data_key": "/reaction/nydelta_strongD",
+    "source_file": "eos5_can_nydelta_strongD.dat",
+    "source_sha256": "56b612ee2bb0aa30f534e3175a27c6a3c242e75b7b0fc1af16bc022124989b40",
+    "shape": [
+      311,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/npemu",
+    "source_file": "g1cont_npemu.dat",
+    "source_sha256": "5985a03b72f2171fa0376688b3d9586540b0c89527b7dc013d98923b8a7f1241",
+    "shape": [
+      95,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ny",
+    "source_file": "g1cont_ny.dat",
+    "source_sha256": "b6385e8a75b4d9dde5f539f0e716ca39f7e64bdcb8a90cce7f088b0d378e56a7",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ndelta",
+    "source_file": "g1cont_ndelta.dat",
+    "source_sha256": "b3783c4d5c7daf42f6def35fd7b11caa9679e0a891c441eb1f9c018b36398c17",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/nydelta",
+    "source_file": "g1cont_nydelta.dat",
+    "source_sha256": "022916791296f4fd48071519ceaabc9886e387f0cdb7ace8f5308ac12b9016da",
+    "shape": [
+      105,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK0",
+    "source_file": "g1cont_ka_UK0.dat",
+    "source_sha256": "5985a03b72f2171fa0376688b3d9586540b0c89527b7dc013d98923b8a7f1241",
+    "shape": [
+      95,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK100",
+    "source_file": "g1cont_ka_UK100.dat",
+    "source_sha256": "56aa8153c8e377a245e62f29a7c87f0b968803ecb311a7ccf6deaed9ab605b74",
+    "shape": [
+      87,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK120",
+    "source_file": "g1cont_ka_UK120.dat",
+    "source_sha256": "7ee12211c0df22cf1e7d6c57065b627a0cbcebc417d37f623fd0b97e61edd41f",
+    "shape": [
+      95,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK140",
+    "source_file": "g1cont_ka_UK140.dat",
+    "source_sha256": "206208d6239cbb008d4dfed2de9b3b37d3dd2d43d3cb7fadc4cf983e2652adcd",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK160",
+    "source_file": "g1cont_ka_UK160.dat",
+    "source_sha256": "1b2d953887c95fc2e84a54a4daeb53825c71de401acb0246aac2f1630013e336",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK100_Keq",
+    "source_file": "g1cont_ka_UK100_Keq.dat",
+    "source_sha256": "2d0d6d36ba0b5a7567f48718de32d96026702f5c0130d4c7419612c962bf87fe",
+    "shape": [
+      87,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK120_Keq",
+    "source_file": "g1cont_ka_UK120_Keq.dat",
+    "source_sha256": "0eb2579f122c6afb5432d743e1a309165f4c22a8bc9d2ebf3dc0ac56e7c39111",
+    "shape": [
+      95,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK140_Keq",
+    "source_file": "g1cont_ka_UK140_Keq.dat",
+    "source_sha256": "3891a61819e503e5b453cf21d9c613d528143fcf00d4c44a34092d7e7ae97d43",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ka_UK160_Keq",
+    "source_file": "g1cont_ka_UK160_Keq.dat",
+    "source_sha256": "2febd1043a036cd439d2a775d47c8812888c2210f1e9b7df44084f964a00483c",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ndelta_strongD",
+    "source_file": "g1cont_ndelta_strongD.dat",
+    "source_sha256": "d2d024b172304f245e32a664c0ce8c03dfdf768e9b4c16d11fcf37b23fad0a50",
+    "shape": [
+      106,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/nydelta_strongD",
+    "source_file": "g1cont_nydelta_strongD.dat",
+    "source_sha256": "84d340e0c8bee589e5f8d592e201767962d0478bfc00d2472c53a466ca0b0fc5",
+    "shape": [
+      105,
+      5
+    ]
+  },
+  {
+    "data_key": "/tau/npemu",
+    "source_file": "tau_pts_npemu.dat",
+    "source_sha256": "11f8af64c408099ebbab7635f93cdfbd49fabcba79615bb40bf47a8619a025d4",
+    "shape": [
+      54,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ny",
+    "source_file": "tau_pts_ny.dat",
+    "source_sha256": "7a037a9399fb530caece348729e20ec22f2d68cd71425b999dece43cc2f27c9a",
+    "shape": [
+      61,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ndelta",
+    "source_file": "tau_pts_ndelta.dat",
+    "source_sha256": "b4206a410457855feef0622fa0a7127929b1c7d6b97aa7e803487846d4da5fdc",
+    "shape": [
+      54,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/nydelta",
+    "source_file": "tau_pts_nydelta.dat",
+    "source_sha256": "5bdcca8c8bba54368a3cb86a3e384195a38f26d43c04ef2a32c6089b02a80379",
+    "shape": [
+      51,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK0",
+    "source_file": "tau_pts_ka_UK0.dat",
+    "source_sha256": "a844c53359562d00f899e81246e581ff89099de70410a47aa699d76e31e19354",
+    "shape": [
+      45,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK100",
+    "source_file": "tau_pts_ka_UK100.dat",
+    "source_sha256": "d5d013c53b42bf3c7ebc9a10af3d48ce3d75880c4143a8c320a60bba69e4b016",
+    "shape": [
+      53,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK120",
+    "source_file": "tau_pts_ka_UK120.dat",
+    "source_sha256": "fa5d1241ccc77e904669e7827f49a264682aa840f320e371cc4b71ba12f14398",
+    "shape": [
+      58,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK140",
+    "source_file": "tau_pts_ka_UK140.dat",
+    "source_sha256": "d46ef5a0fee3eec230393c784e313332191e3a6d30964b58bb4071a709b8320f",
+    "shape": [
+      66,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK160",
+    "source_file": "tau_pts_ka_UK160.dat",
+    "source_sha256": "91709e55b2b88dbe427c788c35e37e6833413f0c9772668334bd072054c83953",
+    "shape": [
+      62,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK100_Keq",
+    "source_file": "tau_pts_ka_UK100_Keq.dat",
+    "source_sha256": "e9fffc5554e8d02ebc95d9f784ed9bd9e5f69c000f87d80c53ed0e7a6a7691b3",
+    "shape": [
+      53,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK120_Keq",
+    "source_file": "tau_pts_ka_UK120_Keq.dat",
+    "source_sha256": "f2f01e189f5c6be6c780c760f8396e96348c7ea1bf87fdf03f53027f20458123",
+    "shape": [
+      58,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK140_Keq",
+    "source_file": "tau_pts_ka_UK140_Keq.dat",
+    "source_sha256": "6c8830625273a95752be4a51665a303ad1efef9e6e25f653aad640f53eb7ab31",
+    "shape": [
+      66,
+      7
+    ]
+  },
+  {
+    "data_key": "/tau/ka_UK160_Keq",
+    "source_file": "tau_pts_ka_UK160_Keq.dat",
+    "source_sha256": "51512522e9d30a6ef80da7fc239cf130de5a120ff707d95cfc56c18f2485d55c",
+    "shape": [
+      62,
+      7
+    ]
+  },
+  {
+    "data_key": "/cowling/npemu",
+    "source_file": "cowl_npemu.dat",
+    "source_sha256": "fa5dc8365e00de9a4738a53f86a587d33ad8b33c3b692ff6b2643e2ba7bfdddd",
+    "shape": [
+      58,
+      2
+    ]
+  },
+  {
+    "data_key": "/cowling/ndelta",
+    "source_file": "cowl_ndelta.dat",
+    "source_sha256": "c278ea44a2ec5ccfad154e1d8afba52560843ef75d210730b8c391dc59d0b3bb",
+    "shape": [
+      93,
+      2
+    ]
+  },
+  {
+    "data_key": "/cowling/ny",
+    "source_file": "cowl_ny.dat",
+    "source_sha256": "6bf1eb08dd83275d9fabbecc4e4a52c5df3ec0943e8f839b14295a08fdaa0799",
+    "shape": [
+      101,
+      2
+    ]
+  },
+  {
+    "data_key": "/cowling/nydelta",
+    "source_file": "cowl_nydelta.dat",
+    "source_sha256": "a65abab474c6558e491ca3abb555d768ba6b84eebd23dfdbefb74f629682997e",
+    "shape": [
+      100,
+      2
+    ]
+  },
+  {
+    "data_key": "/composition/ka_UK120",
+    "source_file": "fractions_can_ka_UK120.dat",
+    "source_sha256": "57bc1edb620b70104cc7f629d337ef6534e732addb7e8e183f0e2a14f3459c9a",
+    "shape": [
+      336,
+      6
+    ]
+  },
+  {
+    "data_key": "/composition/nydelta",
+    "source_file": "fractions_can_nydelta.dat",
+    "source_sha256": "2d6c13688c907555d0aae0df00ba0ac1ef3cdb37ce4cc1d0a595dcd2bee4ab39",
+    "shape": [
+      195,
+      15
+    ]
+  },
+  {
+    "data_key": "/chi/ka_UK120",
+    "source_file": "chi_can_ka_UK120.dat",
+    "source_sha256": "cb12b53429a9e8d6e74ca30fd3e088413aa339a792d2595b52e18587dab0da53",
+    "shape": [
+      3,
+      7
+    ]
+  },
+  {
+    "data_key": "/chi/ndelta",
+    "source_file": "chi_can_ndelta.dat",
+    "source_sha256": "9ac9b12be6fb403fea176706d1964bb8126da68d43e4ed85df972e7b1704a337",
+    "shape": [
+      3,
+      10
+    ]
+  },
+  {
+    "data_key": "/chi/nydelta",
+    "source_file": "chi_can_nydelta.dat",
+    "source_sha256": "ab03d662ad8da4c4be75490a8a717b370d652ab6fd6788585d2e610d632b5c78",
+    "shape": [
+      3,
+      13
+    ]
+  },
+  {
+    "data_key": "/eos/npemu",
+    "source_file": "eos5_ddme2ba_npemu.dat",
+    "source_sha256": "9edee1d1c1cbc32f475d81d4733696e316c0a54066fcbdc7f25c9adf5fc8896f",
+    "shape": [
+      416,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/kaon",
+    "source_file": "eos5_ddme2ba_kaon.dat",
+    "source_sha256": "6bdcf959e6c708d0c0e5aecfa0d0d09ca036f3b08d9ed5a63279b0654afb40d8",
+    "shape": [
+      416,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/kaon_fastK",
+    "source_file": "eos5_ddme2ba_kaon_fastK.dat",
+    "source_sha256": "07a4495366dbebe1724a5db8e8ab07058433ee1344bd57e32023711efb2e8cac",
+    "shape": [
+      416,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ndelta",
+    "source_file": "eos5_ddme2ba_ndelta.dat",
+    "source_sha256": "9b288cf5283c09fd844aed9f78c5790ee9e4236d3bd3784d41b491d47f881cc3",
+    "shape": [
+      320,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ndelta_strongD",
+    "source_file": "eos5_ddme2ba_ndelta_strongD.dat",
+    "source_sha256": "3091bd19bf63d7f182eeb31848676f94ad24fc34b213a45b095453ba73878475",
+    "shape": [
+      320,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/ny",
+    "source_file": "eos5_ddme2ba_ny.dat",
+    "source_sha256": "82e7fd3090df1f1eb27d681aa946321da3781186cd10698191900ae3cb5e0a07",
+    "shape": [
+      396,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/nydelta",
+    "source_file": "eos5_ddme2ba_nydelta.dat",
+    "source_sha256": "487ffa89ec87bfa12da0139bdf55c5919aaba660d33a1b675ce092669af89b2b",
+    "shape": [
+      321,
+      5
+    ]
+  },
+  {
+    "data_key": "/eos/nydelta_strongD",
+    "source_file": "eos5_ddme2ba_nydelta_strongD.dat",
+    "source_sha256": "17700579c787529d94ba0cad715afba071a5e21afc04e9ea8cf33b033ba8e4ef",
+    "shape": [
+      321,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/npemu",
+    "source_file": "g1_ddme2ba_npemu.dat",
+    "source_sha256": "ab35dc2e4ffe890c2934b67d03e8252f3b1ec2caf8bc0198bff2c661b3129666",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/kaon",
+    "source_file": "g1_ddme2ba_kaon.dat",
+    "source_sha256": "a4f4964379547be0103401d77bc6a57607d22c31ecc3e74040234492ff6e114f",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/kaon_fastK",
+    "source_file": "g1_ddme2ba_kaon_fastK.dat",
+    "source_sha256": "2ab3d9fc793db535d32d3f6579c5971f55f0ee4f164123289784881297eb4b83",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ndelta",
+    "source_file": "g1_ddme2ba_ndelta.dat",
+    "source_sha256": "c4cb446e97a015e78374182665c23f92fcbc44ee96d53a6569018c2fdf8cf393",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ndelta_strongD",
+    "source_file": "g1_ddme2ba_ndelta_strongD.dat",
+    "source_sha256": "d56dfad056c2b89bbc250a0d4bf10c118ce4f5db518fd2a685b2f0ce1c408faa",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/ny",
+    "source_file": "g1_ddme2ba_ny.dat",
+    "source_sha256": "67d2cfbd215f2e69479cdf725370c1cfffb54edd3e5011d70601ceed5b311f17",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/nydelta",
+    "source_file": "g1_ddme2ba_nydelta.dat",
+    "source_sha256": "135803291e5ab40bdc37fd454fec4fe12c62bec0f192215d5205c5ec0825c53c",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/g1/nydelta_strongD",
+    "source_file": "g1_ddme2ba_nydelta_strongD.dat",
+    "source_sha256": "179112ebd3e0c8dea0c431a716cb76597e54529ee790c17178cc64132c641ce7",
+    "shape": [
+      90,
+      5
+    ]
+  },
+  {
+    "data_key": "/GW170817_90",
+    "source_file": "GW170817_90.csv",
+    "source_sha256": "ac3f73ebc352546124c9bc99ae063e35e8a144b83951947a76fb9e141ead8385",
+    "shape": [
+      115,
+      2
+    ]
+  },
+  {
+    "data_key": "/GW170817_50",
+    "source_file": "GW170817_50.csv",
+    "source_sha256": "47808dcb51fc0101d26ce5943045a42db5ddc4ede974bf885b4f7f28b4262e2c",
+    "shape": [
+      137,
+      2
+    ]
+  },
+  {
+    "data_key": "/Miller_68_3_J0030_0451",
+    "source_file": "Miller_68_3_J0030_0451.csv",
+    "source_sha256": "811317eb2f11b218579158f4acb88926a978d3dd9569cefc1193ac28b802badd",
+    "shape": [
+      43,
+      2
+    ]
+  },
+  {
+    "data_key": "/Riley_68_3_J0030_0451",
+    "source_file": "Riley_68_3_J0030_0451.csv",
+    "source_sha256": "8273d9794658b72572fe40e543fa50cff5c602848ef76cedcda65f02e3068dbe",
+    "shape": [
+      36,
+      2
+    ]
+  },
+  {
+    "data_key": "/Riley_68_J0740_6620",
+    "source_file": "Riley_68_J0740_6620.csv",
+    "source_sha256": "8244a7e98f40061a40533d3176715097436d2a10d8ddec9ed18a5d672110a7a5",
+    "shape": [
+      37,
+      2
+    ]
+  }
+]
